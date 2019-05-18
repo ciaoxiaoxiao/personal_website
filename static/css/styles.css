@@ -52,7 +52,7 @@
 	position:relative;
 }
 
-.cell: hover {
+.cell:hover {
 	background-color: rgb(221,221,221);
 }
 
