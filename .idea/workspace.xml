@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personalwbpre2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="118" column="40" lean-forward="true" selection-start-line="118" selection-start-column="40" selection-end-line="118" selection-end-column="40" />
+            <state relative-caret-position="461">
+              <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -93,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1371">
-              <caret line="154" column="30" lean-forward="true" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+              <caret line="154" column="30" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -125,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
@@ -149,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/bin/django-admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -188,7 +188,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="300" />
     <option name="y" value="23" />
     <option name="width" value="1305" />
@@ -207,6 +207,16 @@
             <path>
               <item name="personalwbpre2" type="b2602c69:ProjectViewProjectNode" />
               <item name="personalwbpre2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personalwbpre2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personalwbpre2" type="462c0819:PsiDirectoryNode" />
+              <item name="personalwbpre2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personalwbpre2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personalwbpre2" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -431,7 +441,7 @@
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/bin/django-admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -441,7 +451,7 @@
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#22#31#0" expanded="true" />
           </folding>
@@ -451,7 +461,7 @@
     <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1371">
-          <caret line="154" column="30" lean-forward="true" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+          <caret line="154" column="30" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -469,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/personalwbpre2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="118" column="40" lean-forward="true" selection-start-line="118" selection-start-column="40" selection-end-line="118" selection-end-column="40" />
+        <state relative-caret-position="461">
+          <caret line="123" column="40" selection-start-line="123" selection-start-column="40" selection-end-line="123" selection-end-column="40" />
         </state>
       </provider>
     </entry>
